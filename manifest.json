@@ -1,0 +1,21 @@
+{
+    "manifest_version": 2,
+    "name": "MoneyChanger",
+    "version": "1.0",
+    "description": "convenient popup tab for currency exchange",
+
+    "icons": {
+        "96":"icon/icon.ico"
+    },
+    "permissions": ["activeTab"],
+
+    "browser_action": {
+        "default_icon":"icon/icon.ico",
+        "default_title":"Exchange",
+        "default_popup": "popup/index.html"
+    },
+    "web_accessible_resources": [
+
+    ]
+
+}
