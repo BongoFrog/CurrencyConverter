@@ -12,7 +12,7 @@
     "browser_action": {
         "default_icon":"icon/icon.ico",
         "default_title":"Exchange",
-        "default_popup": "popup/index.html"
+        "default_popup": "toolbarButt/index.html"
     },
     "web_accessible_resources": [
 
